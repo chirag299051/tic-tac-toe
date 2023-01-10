@@ -47,6 +47,9 @@ code {
 .tic {
   font-size: 32px;
   font-weight: 900;
-  margin: 60px;
+  margin: 50px;
   font-style: italic;
+}
+.tic {
+  margin-top: 0px;
 }
